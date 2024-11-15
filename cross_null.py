@@ -49,7 +49,6 @@ def check_winner():
         return True
     return False
 
-
 # Создание основного окна
 root = tk.Tk()
 root.title("Крестики-Нолики")
